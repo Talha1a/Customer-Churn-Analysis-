@@ -11,19 +11,19 @@ This project involves an in-depth analysis of telecom customer churn data to ide
 ## Visuals
 
 ### 1. Churn Timeline
-![Churn Timeline](/Churn_Timeline.png)  
+![Churn Timeline](https://github.com/Talha1a/Customer-Churn-Analysis-/blob/main/Churn%20Timeline.png)  
 *Shows churn trends over time, highlighting peak churn periods.*
 
 ### 2. Multiple Comparisons
-![Multiple Comparisons](/Multiple_comparisons.png)  
+![Multiple Comparisons](https://github.com/Talha1a/Customer-Churn-Analysis-/blob/main/Multiple%20comparisons.png)  
 *Compares churn factors such as contract type, tenure, and monthly charges.*
 
 ### 3. Overall Churn Percentage
-![Overall Churn](/Overall_Churn_Percentage.png)  
+![Overall Churn](https://github.com/Talha1a/Customer-Churn-Analysis-/blob/main/Overall%20%25%20of%20churned.png)  
 *Displays the proportion of customers who churned versus those who were retained.*
 
 ### 4. Payment Method Analysis
-![Payment Method](/Payment_method.png)  
+![Payment Method](https://github.com/Talha1a/Customer-Churn-Analysis-/blob/main/Payment%20method.png)  
 *Illustrates the correlation between payment methods and churn rates.*
 
 ## How to Use
