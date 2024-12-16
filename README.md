@@ -11,19 +11,19 @@ This project involves an in-depth analysis of telecom customer churn data to ide
 ## Visuals
 
 ### 1. Churn Timeline
-![Churn Timeline](images/Churn_Timeline.png)  
+![Churn Timeline](/Churn_Timeline.png)  
 *Shows churn trends over time, highlighting peak churn periods.*
 
 ### 2. Multiple Comparisons
-![Multiple Comparisons](images/Multiple_comparisons.png)  
+![Multiple Comparisons](/Multiple_comparisons.png)  
 *Compares churn factors such as contract type, tenure, and monthly charges.*
 
 ### 3. Overall Churn Percentage
-![Overall Churn](images/Overall_Churn_Percentage.png)  
+![Overall Churn](/Overall_Churn_Percentage.png)  
 *Displays the proportion of customers who churned versus those who were retained.*
 
 ### 4. Payment Method Analysis
-![Payment Method](images/Payment_method.png)  
+![Payment Method](/Payment_method.png)  
 *Illustrates the correlation between payment methods and churn rates.*
 
 ## How to Use
